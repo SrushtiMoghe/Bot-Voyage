@@ -1,0 +1,11 @@
+langchain
+openai
+faiss-cpu
+tiktoken
+python-dotenv
+ipykernel
+pandas
+numpy
+scikit-learn
+matplotlib
+nbformat
